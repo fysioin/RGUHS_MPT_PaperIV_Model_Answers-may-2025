@@ -1,0 +1,23 @@
+{
+  "name": "RGUHS MPT Paper IV - Model Answers (May 2025)",
+  "short_name": "Paper IV May",
+  "description": "Model answers for RGUHS MPT Paper IV, May 2025.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
